@@ -1,2 +1,2 @@
-# nxtbot
-nxtbot
+# nxt
+nxt
